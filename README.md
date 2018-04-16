@@ -1,5 +1,5 @@
 # hello_world
 
-Christopher Polanco 
+Christopher Polanco Aidan Hilt
 Lab 2
 4/16/2018
